@@ -4,4 +4,4 @@ linia dodana recznie z githuba
 
 a to kolejna zmiana dodana na lapie
 
-to jest wlasciwa wersja pliku w nowej branchy zmiana 3
+w tymi miejscu robie linie ktora bedzie konflikotwac z master branch
